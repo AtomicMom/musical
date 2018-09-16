@@ -6,9 +6,10 @@
 
   margin-bottom: 2rem;
   background-color: rgb(255,255,255, .125);
-  margin-right: center;
+  margin-right: auto;
   padding-right: 15px;
   padding-left: 15px;
+  width: 100%;
 }
 
 .masthead-brand {
