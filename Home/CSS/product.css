@@ -74,12 +74,14 @@
 }
 
 /*
- * Dummy devices (replace them with your own or something else entirely!)
+ *background stuff
  */
 .main-background{
-  background-image: url("../Images/IMG_0887.JPG");
+  background-image: url("../Images/IMG_0887.JP");
   background-size: cover;
   background-position: center center;
+  background: aqua;
+  opacity: .75;
 }
 
 .first-tile{
