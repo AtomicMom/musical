@@ -47,11 +47,11 @@ body {
  */
 .masthead {
   margin-bottom: 2rem;
-  margin-right: center;
+  margin-right: auto;
   background-color: rgb(255,255,255, .125);
   padding-right: 15px;
   padding-left: 15px;
-  opacity: .75;
+  
 
 }
 
